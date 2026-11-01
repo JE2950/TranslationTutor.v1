@@ -100,8 +100,7 @@
     if (state.direction === 'l2e') {
       var parsed = Parse.parse(state.lexicon, text);
       if (parsed.unknowns.length) {
-        warn.textContent = 'Not on the Level ' + state.level + ' list: ' + parsed.unknowns.join(', ') +
-          '. Change the word, or raise the level.';
+        warn.textContent = 'Not on the Level ' + state.level + ' list: ' + parsed.unknowns.join(', ') + '.';
         return;
       }
       var hasVerb = parsed.clauses.some(function (c) { return c.info.verbIdx != null; });

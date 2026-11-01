@@ -1,7 +1,7 @@
 const { chromium } = require('playwright');
 const http = require('http'), fs = require('fs'), path = require('path');
 
-const ROOT = '/home/claude/latin-tutor';
+const ROOT = path.resolve(__dirname, '..');
 const TYPES = {'.html':'text/html','.css':'text/css','.js':'application/javascript','.json':'application/json'};
 const server = http.createServer((req,res)=>{
   let p = decodeURIComponent(req.url.split('?')[0]);
@@ -32,7 +32,10 @@ const server = http.createServer((req,res)=>{
     await page.waitForTimeout(520);
   }
   async function answerChoice(v){
-    await page.click(`#inputs .choices button:text-is("${v}")`);
+    const opts = await page.locator('#inputs .choices button').allTextContents();
+    const i = opts.findIndex(t => t.trim() === v);
+    if (i < 0) throw new Error('no option "' + v + '" among: ' + JSON.stringify(opts));
+    await page.locator('#inputs .choices button').nth(i).click();
     await page.waitForTimeout(520);
   }
   async function isChoice(){ return await page.locator('#inputs .choices').count() > 0; }
@@ -118,7 +121,12 @@ const server = http.createServer((req,res)=>{
   const tiles = await page.locator('#bank .tile').allTextContents();
   console.log('  tiles: ' + tiles.map(t=>'['+t+']').join(' '));
   for (const want of ['the slave','carries','the food']) {
-    await page.click(`#bank .tile:text-is("${want}")`);
+    {
+      const tt = await page.locator('#bank .tile').allTextContents();
+      const j = tt.findIndex(t => t.trim() === want);
+      if (j < 0) throw new Error('no tile "' + want + '" among: ' + JSON.stringify(tt));
+      await page.locator('#bank .tile').nth(j).click();
+    }
     await page.waitForTimeout(80);
   }
   console.log('  built: ' + (await page.locator('#built .tile').allTextContents()).join(' | '));
@@ -131,6 +139,7 @@ const server = http.createServer((req,res)=>{
   await page.click('#againbtn');
   await page.waitForTimeout(200);
   await page.click('#seg-direction button[data-value="e2l"]');
+  await page.click('#seg-depth button[data-value="full"]');
   await page.waitForTimeout(100);
   await page.fill('#sentence', 'the girls were working in the house');
   await page.click('#beginbtn');
