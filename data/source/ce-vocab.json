@@ -1,0 +1,2893 @@
+[
+ {
+  "latin": "a/ab",
+  "info": "ablative",
+  "english": "from, by",
+  "type": "preposition",
+  "level": "L1"
+ },
+ {
+  "latin": "absum",
+  "info": "abesse, afui",
+  "english": "I am away",
+  "type": "verb irregular",
+  "level": "L1"
+ },
+ {
+  "latin": "accipio",
+  "info": "accipere, accepi, acceptus",
+  "english": "I receive",
+  "type": "verb 5 (mixed)",
+  "level": "L2"
+ },
+ {
+  "latin": "ad",
+  "info": "accusative",
+  "english": "to, towards",
+  "type": "preposition",
+  "level": "L1"
+ },
+ {
+  "latin": "adeo",
+  "info": "adire, adi(v)i",
+  "english": "I approach",
+  "type": "verb irregular",
+  "level": "L3"
+ },
+ {
+  "latin": "adsum",
+  "info": "adesse, adfui",
+  "english": "I am present",
+  "type": "verb irregular",
+  "level": "L1"
+ },
+ {
+  "latin": "advenio",
+  "info": "advenire, adveni",
+  "english": "I arrive",
+  "type": "verb 4",
+  "level": "L2"
+ },
+ {
+  "latin": "aedifico",
+  "info": "aedificare, aedificavi, aedificatus",
+  "english": "I build",
+  "type": "verb 1",
+  "level": "L1"
+ },
+ {
+  "latin": "ager",
+  "info": "agri",
+  "english": "field",
+  "type": "noun 2m",
+  "level": "L1"
+ },
+ {
+  "latin": "agricola",
+  "info": "agricolae",
+  "english": "farmer",
+  "type": "noun 1m",
+  "level": "L1"
+ },
+ {
+  "latin": "alius",
+  "info": "alia, alium",
+  "english": "other",
+  "type": "adjective 2-1-2",
+  "level": "L3"
+ },
+ {
+  "latin": "altus",
+  "info": "alta, altum",
+  "english": "high, deep",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "ambulo",
+  "info": "ambulare, ambulavi",
+  "english": "I walk",
+  "type": "verb 1",
+  "level": "L1"
+ },
+ {
+  "latin": "amicus",
+  "info": "amici",
+  "english": "friend",
+  "type": "noun 2m",
+  "level": "L1"
+ },
+ {
+  "latin": "amo",
+  "info": "amare, amavi, amatus",
+  "english": "I love, like",
+  "type": "verb 1",
+  "level": "L1"
+ },
+ {
+  "latin": "ancilla",
+  "info": "ancillae",
+  "english": "maidservant",
+  "type": "noun 1f",
+  "level": "L1"
+ },
+ {
+  "latin": "animal",
+  "info": "animalis",
+  "english": "animal",
+  "type": "noun 3n",
+  "level": "L3"
+ },
+ {
+  "latin": "annus",
+  "info": "anni",
+  "english": "year",
+  "type": "noun 2m",
+  "level": "L3"
+ },
+ {
+  "latin": "ante",
+  "info": "accusative",
+  "english": "before",
+  "type": "preposition",
+  "level": "L2"
+ },
+ {
+  "latin": "antequam",
+  "info": "",
+  "english": "before",
+  "type": "conjunction",
+  "level": "L2"
+ },
+ {
+  "latin": "appropinquo",
+  "info": "appropinquare, appropinquavi (+ dative)",
+  "english": "I approach",
+  "type": "verb 1",
+  "level": "L2"
+ },
+ {
+  "latin": "aqua",
+  "info": "aquae",
+  "english": "water",
+  "type": "noun 1f",
+  "level": "L1"
+ },
+ {
+  "latin": "arma",
+  "info": "armorum",
+  "english": "weapons",
+  "type": "noun 2n",
+  "level": "L2"
+ },
+ {
+  "latin": "audax",
+  "info": "audacis",
+  "english": "bold",
+  "type": "adjective 3rd",
+  "level": "L2"
+ },
+ {
+  "latin": "audio",
+  "info": "audire, audivi, auditus",
+  "english": "I hear, listen to",
+  "type": "verb 4",
+  "level": "L1"
+ },
+ {
+  "latin": "aurum",
+  "info": "auri",
+  "english": "gold",
+  "type": "noun 2n",
+  "level": "L1"
+ },
+ {
+  "latin": "aut",
+  "info": "",
+  "english": "or",
+  "type": "conjunction",
+  "level": "L3"
+ },
+ {
+  "latin": "autem",
+  "info": "",
+  "english": "but, however",
+  "type": "conjunction",
+  "level": "L2"
+ },
+ {
+  "latin": "auxilium",
+  "info": "auxilii",
+  "english": "help",
+  "type": "noun 2n",
+  "level": "L1"
+ },
+ {
+  "latin": "bellum",
+  "info": "belli",
+  "english": "war",
+  "type": "noun 2n",
+  "level": "L1"
+ },
+ {
+  "latin": "bene",
+  "info": "",
+  "english": "well",
+  "type": "adverb",
+  "level": "L1"
+ },
+ {
+  "latin": "bibo",
+  "info": "bibere, bibi",
+  "english": "I drink",
+  "type": "verb 3",
+  "level": "L1"
+ },
+ {
+  "latin": "bonus",
+  "info": "bona, bonum",
+  "english": "good",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "caelum",
+  "info": "caeli",
+  "english": "sky",
+  "type": "noun 2n",
+  "level": "L1"
+ },
+ {
+  "latin": "canto",
+  "info": "cantare, cantavi, cantatus",
+  "english": "I sing",
+  "type": "verb 1",
+  "level": "L1"
+ },
+ {
+  "latin": "capio",
+  "info": "capere, cepi, captus",
+  "english": "I take, capture",
+  "type": "verb 5 (mixed)",
+  "level": "L1"
+ },
+ {
+  "latin": "captivus",
+  "info": "captivi",
+  "english": "prisoner, captive",
+  "type": "noun 2m",
+  "level": "L1"
+ },
+ {
+  "latin": "carus",
+  "info": "cara, carum",
+  "english": "dear",
+  "type": "adjective 2-1-2",
+  "level": "L2"
+ },
+ {
+  "latin": "celer",
+  "info": "celeris, celere",
+  "english": "quick",
+  "type": "adjective 3rd",
+  "level": "L3"
+ },
+ {
+  "latin": "celeriter",
+  "info": "",
+  "english": "quickly",
+  "type": "adverb",
+  "level": "L2"
+ },
+ {
+  "latin": "cena",
+  "info": "cenae",
+  "english": "dinner, meal",
+  "type": "noun 1f",
+  "level": "L1"
+ },
+ {
+  "latin": "centum",
+  "info": "",
+  "english": "a hundred",
+  "type": "cardinal",
+  "level": "L3"
+ },
+ {
+  "latin": "ceteri",
+  "info": "ceterae, cetera",
+  "english": "the rest",
+  "type": "adjective 2-1-2",
+  "level": "L2"
+ },
+ {
+  "latin": "cibus",
+  "info": "cibi",
+  "english": "food",
+  "type": "noun 2m",
+  "level": "L1"
+ },
+ {
+  "latin": "circum",
+  "info": "accusative",
+  "english": "around",
+  "type": "preposition",
+  "level": "L2"
+ },
+ {
+  "latin": "civis",
+  "info": "civis",
+  "english": "citizen",
+  "type": "noun 3m/f",
+  "level": "L2"
+ },
+ {
+  "latin": "clamo",
+  "info": "clamare, clamavi, clamatus",
+  "english": "I shout",
+  "type": "verb 1",
+  "level": "L1"
+ },
+ {
+  "latin": "clamor",
+  "info": "clamoris",
+  "english": "shout",
+  "type": "noun 3m",
+  "level": "L2"
+ },
+ {
+  "latin": "clarus",
+  "info": "clara, clarum",
+  "english": "clear, bright, famous",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "cogo",
+  "info": "cogere, coegi, coactus",
+  "english": "I force",
+  "type": "verb 3",
+  "level": "L3"
+ },
+ {
+  "latin": "colligo",
+  "info": "colligere, collegi, collectus",
+  "english": "I collect",
+  "type": "verb 3",
+  "level": "L2"
+ },
+ {
+  "latin": "comes",
+  "info": "comitis",
+  "english": "companion",
+  "type": "noun 3m/f",
+  "level": "L2"
+ },
+ {
+  "latin": "coniunx",
+  "info": "coniugis",
+  "english": "wife, husband",
+  "type": "noun 3m/f",
+  "level": "L2"
+ },
+ {
+  "latin": "consilium",
+  "info": "consilii",
+  "english": "plan, advice",
+  "type": "noun 2n",
+  "level": "L1"
+ },
+ {
+  "latin": "conspicio",
+  "info": "conspicere, conspexi, conspectus",
+  "english": "I catch sight of",
+  "type": "verb 5 (mixed)",
+  "level": "L2"
+ },
+ {
+  "latin": "constituo",
+  "info": "constituere, constitui, constitutus",
+  "english": "I decide",
+  "type": "verb 3",
+  "level": "L1"
+ },
+ {
+  "latin": "consumo",
+  "info": "consumere, consumpsi, consumptus",
+  "english": "I eat",
+  "type": "verb 3",
+  "level": "L1"
+ },
+ {
+  "latin": "contendo",
+  "info": "-ere, -i",
+  "english": "I hurry",
+  "type": "verb 3",
+  "level": "L3"
+ },
+ {
+  "latin": "contra",
+  "info": "accusative",
+  "english": "against",
+  "type": "preposition",
+  "level": "L1"
+ },
+ {
+  "latin": "convenio",
+  "info": "-ire, -veni",
+  "english": "I meet",
+  "type": "verb 4",
+  "level": "L3"
+ },
+ {
+  "latin": "copiae",
+  "info": "copiarum",
+  "english": "forces",
+  "type": "noun 1f",
+  "level": "L2"
+ },
+ {
+  "latin": "corpus",
+  "info": "corporis",
+  "english": "body",
+  "type": "noun 3n",
+  "level": "L2"
+ },
+ {
+  "latin": "cras",
+  "info": "",
+  "english": "tomorrow",
+  "type": "adverb",
+  "level": "L2"
+ },
+ {
+  "latin": "credo",
+  "info": "credere, credidi, creditus (+ dative)",
+  "english": "I believe",
+  "type": "verb 3",
+  "level": "L3"
+ },
+ {
+  "latin": "crudelis",
+  "info": "crudele",
+  "english": "cruel",
+  "type": "adjective 3rd",
+  "level": "L2"
+ },
+ {
+  "latin": "cum",
+  "info": "ablative",
+  "english": "with",
+  "type": "preposition",
+  "level": "L1"
+ },
+ {
+  "latin": "cupio",
+  "info": "cupere, cupivi, cupitus",
+  "english": "I want, desire",
+  "type": "verb 5 (mixed)",
+  "level": "L1"
+ },
+ {
+  "latin": "cur?",
+  "info": "",
+  "english": "why?",
+  "type": "question word",
+  "level": "L1"
+ },
+ {
+  "latin": "curro",
+  "info": "currere, cucurri, cursus",
+  "english": "I run",
+  "type": "verb 3",
+  "level": "L1"
+ },
+ {
+  "latin": "custodio",
+  "info": "-ire, -ivi, -itus",
+  "english": "I guard",
+  "type": "verb 4",
+  "level": "L3"
+ },
+ {
+  "latin": "custos",
+  "info": "custodis",
+  "english": "guard",
+  "type": "noun 3m",
+  "level": "L3"
+ },
+ {
+  "latin": "de",
+  "info": "ablative",
+  "english": "down from, about",
+  "type": "preposition",
+  "level": "L1"
+ },
+ {
+  "latin": "dea",
+  "info": "deae",
+  "english": "goddess",
+  "type": "noun 1f",
+  "level": "L1"
+ },
+ {
+  "latin": "debeo",
+  "info": "debere, debui, debitus",
+  "english": "I owe, ought",
+  "type": "verb 2",
+  "level": "L2"
+ },
+ {
+  "latin": "decem",
+  "info": "",
+  "english": "ten",
+  "type": "cardinal",
+  "level": "L1"
+ },
+ {
+  "latin": "decimus",
+  "info": "decima, decimum",
+  "english": "tenth",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "defendo",
+  "info": "defendere, defendi, defensus",
+  "english": "I defend",
+  "type": "verb 3",
+  "level": "L2"
+ },
+ {
+  "latin": "deinde",
+  "info": "",
+  "english": "then, next",
+  "type": "adverb",
+  "level": "L1"
+ },
+ {
+  "latin": "deleo",
+  "info": "delere, delevi, deletus",
+  "english": "I destroy",
+  "type": "verb 2",
+  "level": "L1"
+ },
+ {
+  "latin": "deus",
+  "info": "dei",
+  "english": "god",
+  "type": "noun 2m",
+  "level": "L1"
+ },
+ {
+  "latin": "dico",
+  "info": "dicere, dixi, dictus",
+  "english": "I say",
+  "type": "verb 3",
+  "level": "L1"
+ },
+ {
+  "latin": "dies",
+  "info": "diei",
+  "english": "day",
+  "type": "noun 5m",
+  "level": "L3"
+ },
+ {
+  "latin": "difficilis",
+  "info": "difficile",
+  "english": "difficult",
+  "type": "adjective 3rd",
+  "level": "L2"
+ },
+ {
+  "latin": "discipulus",
+  "info": "discipuli",
+  "english": "pupil",
+  "type": "noun 2m",
+  "level": "L1"
+ },
+ {
+  "latin": "discedo",
+  "info": "discedere, discessi",
+  "english": "I depart",
+  "type": "verb 3",
+  "level": "L1"
+ },
+ {
+  "latin": "diu",
+  "info": "",
+  "english": "for a long time",
+  "type": "adverb",
+  "level": "L1"
+ },
+ {
+  "latin": "do",
+  "info": "dare, dedi, datus",
+  "english": "I give",
+  "type": "verb 1",
+  "level": "L1"
+ },
+ {
+  "latin": "domina",
+  "info": "dominae",
+  "english": "mistress, lady",
+  "type": "noun 1f",
+  "level": "L1"
+ },
+ {
+  "latin": "dominus",
+  "info": "domini",
+  "english": "master",
+  "type": "noun 2m",
+  "level": "L1"
+ },
+ {
+  "latin": "donum",
+  "info": "doni",
+  "english": "gift",
+  "type": "noun 2n",
+  "level": "L2"
+ },
+ {
+  "latin": "dormio",
+  "info": "dormire, dormivi",
+  "english": "I sleep",
+  "type": "verb 4",
+  "level": "L1"
+ },
+ {
+  "latin": "duco",
+  "info": "ducere, duxi, ductus",
+  "english": "I lead",
+  "type": "verb 3",
+  "level": "L1"
+ },
+ {
+  "latin": "dum",
+  "info": "",
+  "english": "while",
+  "type": "conjunction",
+  "level": "L3"
+ },
+ {
+  "latin": "duo",
+  "info": "duae, duo",
+  "english": "two",
+  "type": "cardinal",
+  "level": "L1"
+ },
+ {
+  "latin": "duodecim",
+  "info": "",
+  "english": "twelve",
+  "type": "cardinal",
+  "level": "L2"
+ },
+ {
+  "latin": "duodeviginti",
+  "info": "",
+  "english": "eighteen",
+  "type": "cardinal",
+  "level": "L2"
+ },
+ {
+  "latin": "dux",
+  "info": "ducis",
+  "english": "leader",
+  "type": "noun 3m",
+  "level": "L2"
+ },
+ {
+  "latin": "e/ex",
+  "info": "ablative",
+  "english": "out of",
+  "type": "preposition",
+  "level": "L1"
+ },
+ {
+  "latin": "effugio",
+  "info": "effugere, effugi",
+  "english": "I escape",
+  "type": "verb 5 (mixed)",
+  "level": "L2"
+ },
+ {
+  "latin": "ego",
+  "info": "mei",
+  "english": "I",
+  "type": "pronoun",
+  "level": "L1"
+ },
+ {
+  "latin": "eo",
+  "info": "ire, i(v)i",
+  "english": "I go",
+  "type": "verb irregular",
+  "level": "L2"
+ },
+ {
+  "latin": "epistula",
+  "info": "epistulae",
+  "english": "letter",
+  "type": "noun 1f",
+  "level": "L1"
+ },
+ {
+  "latin": "equus",
+  "info": "equi",
+  "english": "horse",
+  "type": "noun 2m",
+  "level": "L1"
+ },
+ {
+  "latin": "erro",
+  "info": "errare, erravi, erratus",
+  "english": "I wander",
+  "type": "verb 1",
+  "level": "L2"
+ },
+ {
+  "latin": "et",
+  "info": "",
+  "english": "and",
+  "type": "conjunction",
+  "level": "L1"
+ },
+ {
+  "latin": "et...et...",
+  "info": "",
+  "english": "both...and...",
+  "type": "conjunction",
+  "level": "L2"
+ },
+ {
+  "latin": "etiam",
+  "info": "",
+  "english": "even, also",
+  "type": "adverb",
+  "level": "L1"
+ },
+ {
+  "latin": "exeo",
+  "info": "exire, exi(v)i",
+  "english": "I go out",
+  "type": "verb irregular",
+  "level": "L2"
+ },
+ {
+  "latin": "exercitus",
+  "info": "exercitus",
+  "english": "army",
+  "type": "noun 4m",
+  "level": "L3"
+ },
+ {
+  "latin": "exspecto",
+  "info": "exspectare, exspectavi, exspectatus",
+  "english": "I wait for",
+  "type": "verb 1",
+  "level": "L2"
+ },
+ {
+  "latin": "facilis",
+  "info": "facile",
+  "english": "easy",
+  "type": "adjective 3rd",
+  "level": "L2"
+ },
+ {
+  "latin": "facio",
+  "info": "facere, feci, factus",
+  "english": "I do, make",
+  "type": "verb 5 (mixed)",
+  "level": "L1"
+ },
+ {
+  "latin": "felix",
+  "info": "felicis",
+  "english": "lucky",
+  "type": "adjective 3rd",
+  "level": "L2"
+ },
+ {
+  "latin": "femina",
+  "info": "feminae",
+  "english": "woman",
+  "type": "noun 1f",
+  "level": "L1"
+ },
+ {
+  "latin": "fero",
+  "info": "ferre, tuli, latus",
+  "english": "I bring, carry",
+  "type": "verb irregular",
+  "level": "L3"
+ },
+ {
+  "latin": "fessus",
+  "info": "fessa, fessum",
+  "english": "tired",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "festino",
+  "info": "festinare, festinavi",
+  "english": "I hurry",
+  "type": "verb 1",
+  "level": "L1"
+ },
+ {
+  "latin": "fides",
+  "info": "fidei",
+  "english": "faith",
+  "type": "noun 5f",
+  "level": "L3"
+ },
+ {
+  "latin": "filia",
+  "info": "filiae",
+  "english": "daughter",
+  "type": "noun 1f",
+  "level": "L1"
+ },
+ {
+  "latin": "filius",
+  "info": "filii",
+  "english": "son",
+  "type": "noun 2m",
+  "level": "L1"
+ },
+ {
+  "latin": "fleo",
+  "info": "flere, flevi",
+  "english": "I weep, cry",
+  "type": "verb 2",
+  "level": "L3"
+ },
+ {
+  "latin": "flumen",
+  "info": "fluminis",
+  "english": "river",
+  "type": "noun 3n",
+  "level": "L2"
+ },
+ {
+  "latin": "forte",
+  "info": "",
+  "english": "by chance",
+  "type": "adverb",
+  "level": "L2"
+ },
+ {
+  "latin": "fortis",
+  "info": "forte",
+  "english": "brave, strong",
+  "type": "adjective 3rd",
+  "level": "L2"
+ },
+ {
+  "latin": "fortiter",
+  "info": "",
+  "english": "bravely",
+  "type": "adverb",
+  "level": "L1"
+ },
+ {
+  "latin": "forum",
+  "info": "fori",
+  "english": "forum, marketplace",
+  "type": "noun 2n",
+  "level": "L1"
+ },
+ {
+  "latin": "frater",
+  "info": "fratris",
+  "english": "brother",
+  "type": "noun 3m",
+  "level": "L2"
+ },
+ {
+  "latin": "frustra",
+  "info": "",
+  "english": "in vain",
+  "type": "adverb",
+  "level": "L2"
+ },
+ {
+  "latin": "fugio",
+  "info": "fugere, fugi",
+  "english": "I flee",
+  "type": "verb 5 (mixed)",
+  "level": "L2"
+ },
+ {
+  "latin": "gens",
+  "info": "gentis",
+  "english": "race, people",
+  "type": "noun 3f",
+  "level": "L3"
+ },
+ {
+  "latin": "gero",
+  "info": "gerere, gessi, gestus",
+  "english": "I wage, I wear, I do",
+  "type": "verb 3",
+  "level": "L2"
+ },
+ {
+  "latin": "gladius",
+  "info": "gladii",
+  "english": "sword",
+  "type": "noun 2m",
+  "level": "L1"
+ },
+ {
+  "latin": "Graecia",
+  "info": "Graeciae",
+  "english": "Greece",
+  "type": "noun 1f",
+  "level": "L1"
+ },
+ {
+  "latin": "Graecus",
+  "info": "Graeca, Graecum",
+  "english": "Greek",
+  "type": "adjective 2-1-2",
+  "level": "L2"
+ },
+ {
+  "latin": "habeo",
+  "info": "habere, habui, habitus",
+  "english": "I have",
+  "type": "verb 2",
+  "level": "L1"
+ },
+ {
+  "latin": "habito",
+  "info": "habitare, habitavi, habitatus",
+  "english": "I live",
+  "type": "verb 1",
+  "level": "L1"
+ },
+ {
+  "latin": "hasta",
+  "info": "hastae",
+  "english": "spear",
+  "type": "noun 1f",
+  "level": "L1"
+ },
+ {
+  "latin": "heri",
+  "info": "",
+  "english": "yesterday",
+  "type": "adverb",
+  "level": "L2"
+ },
+ {
+  "latin": "hic",
+  "info": "",
+  "english": "here",
+  "type": "adverb",
+  "level": "L1"
+ },
+ {
+  "latin": "hic",
+  "info": "haec, hoc",
+  "english": "this; he, she, it",
+  "type": "pronoun",
+  "level": "L3"
+ },
+ {
+  "latin": "hodie",
+  "info": "",
+  "english": "today",
+  "type": "adverb",
+  "level": "L2"
+ },
+ {
+  "latin": "homo",
+  "info": "hominis",
+  "english": "man",
+  "type": "noun 3m",
+  "level": "L2"
+ },
+ {
+  "latin": "hora",
+  "info": "horae",
+  "english": "hour",
+  "type": "noun 1f",
+  "level": "L3"
+ },
+ {
+  "latin": "hortus",
+  "info": "horti",
+  "english": "garden",
+  "type": "noun 2m",
+  "level": "L1"
+ },
+ {
+  "latin": "hostes",
+  "info": "hostium",
+  "english": "enemy",
+  "type": "noun 3m",
+  "level": "L2"
+ },
+ {
+  "latin": "iacio",
+  "info": "iacere, ieci, iactus",
+  "english": "I throw",
+  "type": "verb 5 (mixed)",
+  "level": "L1"
+ },
+ {
+  "latin": "iam",
+  "info": "",
+  "english": "now, already",
+  "type": "adverb",
+  "level": "L1"
+ },
+ {
+  "latin": "ibi",
+  "info": "",
+  "english": "there",
+  "type": "adverb",
+  "level": "L1"
+ },
+ {
+  "latin": "idem",
+  "info": "eadem, idem",
+  "english": "the same",
+  "type": "pronoun",
+  "level": "L3"
+ },
+ {
+  "latin": "igitur",
+  "info": "",
+  "english": "therefore",
+  "type": "adverb",
+  "level": "L1"
+ },
+ {
+  "latin": "ille",
+  "info": "illa, illud",
+  "english": "that; he, she, it",
+  "type": "pronoun",
+  "level": "L2"
+ },
+ {
+  "latin": "impero",
+  "info": "-are, -avi, -atus (+ dative)",
+  "english": "I order",
+  "type": "verb 1",
+  "level": "L3"
+ },
+ {
+  "latin": "in",
+  "info": "ablative",
+  "english": "in, on",
+  "type": "preposition",
+  "level": "L1"
+ },
+ {
+  "latin": "in",
+  "info": "accusative",
+  "english": "into",
+  "type": "preposition",
+  "level": "L1"
+ },
+ {
+  "latin": "incola",
+  "info": "incolae",
+  "english": "inhabitant",
+  "type": "noun 1m/f",
+  "level": "L1"
+ },
+ {
+  "latin": "ineo",
+  "info": "inire, ini(v)i",
+  "english": "I go in",
+  "type": "verb irregular",
+  "level": "L2"
+ },
+ {
+  "latin": "ingens",
+  "info": "ingentis",
+  "english": "huge",
+  "type": "adjective 3rd",
+  "level": "L2"
+ },
+ {
+  "latin": "inquit",
+  "info": "inquiunt (plural)",
+  "english": "he/she says",
+  "type": "verb irregular",
+  "level": "L2"
+ },
+ {
+  "latin": "insula",
+  "info": "insulae",
+  "english": "island",
+  "type": "noun 1f",
+  "level": "L1"
+ },
+ {
+  "latin": "inter",
+  "info": "accusative",
+  "english": "among, between",
+  "type": "preposition",
+  "level": "L2"
+ },
+ {
+  "latin": "interea",
+  "info": "",
+  "english": "meanwhile",
+  "type": "adverb",
+  "level": "L3"
+ },
+ {
+  "latin": "interficio",
+  "info": "-ere, -feci, -fectus",
+  "english": "I kill",
+  "type": "verb 5 (mixed)",
+  "level": "L3"
+ },
+ {
+  "latin": "intro",
+  "info": "intrare, intravi, intratus",
+  "english": "I enter",
+  "type": "verb 1",
+  "level": "L1"
+ },
+ {
+  "latin": "invenio",
+  "info": "invenire, inveni, inventus",
+  "english": "I find",
+  "type": "verb 4",
+  "level": "L2"
+ },
+ {
+  "latin": "ipse",
+  "info": "ipsa, ipsum",
+  "english": "himself, herself, itself",
+  "type": "pronoun",
+  "level": "L3"
+ },
+ {
+  "latin": "ira",
+  "info": "irae",
+  "english": "anger",
+  "type": "noun 1f",
+  "level": "L1"
+ },
+ {
+  "latin": "iratus",
+  "info": "irata, iratum",
+  "english": "angry",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "is",
+  "info": "ea, id",
+  "english": "he, she, it",
+  "type": "pronoun",
+  "level": "L2"
+ },
+ {
+  "latin": "itaque",
+  "info": "",
+  "english": "and so",
+  "type": "adverb",
+  "level": "L1"
+ },
+ {
+  "latin": "iter",
+  "info": "itineris",
+  "english": "journey",
+  "type": "noun 3n",
+  "level": "L2"
+ },
+ {
+  "latin": "iterum",
+  "info": "",
+  "english": "again",
+  "type": "adverb",
+  "level": "L1"
+ },
+ {
+  "latin": "iubeo",
+  "info": "iubere, iussi, iussus",
+  "english": "I order",
+  "type": "verb 2",
+  "level": "L1"
+ },
+ {
+  "latin": "iuvenis",
+  "info": "iuvenis",
+  "english": "young man",
+  "type": "noun 3m",
+  "level": "L2"
+ },
+ {
+  "latin": "iuvo",
+  "info": "iuvare, iuvi, iutus",
+  "english": "I help",
+  "type": "verb 1",
+  "level": "L3"
+ },
+ {
+  "latin": "labor",
+  "info": "laboris",
+  "english": "work",
+  "type": "noun 3m",
+  "level": "L3"
+ },
+ {
+  "latin": "laboro",
+  "info": "laborare, laboravi",
+  "english": "I work",
+  "type": "verb 1",
+  "level": "L1"
+ },
+ {
+  "latin": "laetus",
+  "info": "laeta, laetum",
+  "english": "happy",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "laudo",
+  "info": "laudare, laudavi, laudatus",
+  "english": "I praise",
+  "type": "verb 1",
+  "level": "L1"
+ },
+ {
+  "latin": "lego",
+  "info": "legere, legi, lectus",
+  "english": "I read, choose",
+  "type": "verb 3",
+  "level": "L1"
+ },
+ {
+  "latin": "lente",
+  "info": "",
+  "english": "slowly",
+  "type": "adverb",
+  "level": "L3"
+ },
+ {
+  "latin": "liber",
+  "info": "libri",
+  "english": "book",
+  "type": "noun 2m",
+  "level": "L1"
+ },
+ {
+  "latin": "liberi",
+  "info": "liberorum",
+  "english": "children",
+  "type": "noun 2m",
+  "level": "L2"
+ },
+ {
+  "latin": "libero",
+  "info": "liberare, liberavi, liberatus",
+  "english": "I set free",
+  "type": "verb 1",
+  "level": "L2"
+ },
+ {
+  "latin": "libertus",
+  "info": "liberti",
+  "english": "freedman",
+  "type": "noun 2m",
+  "level": "L1"
+ },
+ {
+  "latin": "locus",
+  "info": "loci",
+  "english": "place",
+  "type": "noun 2m",
+  "level": "L1"
+ },
+ {
+  "latin": "longus",
+  "info": "longa, longum",
+  "english": "long",
+  "type": "adjective 2-1-2",
+  "level": "L2"
+ },
+ {
+  "latin": "ludo",
+  "info": "ludere, lusi, lusus",
+  "english": "I play",
+  "type": "verb 3",
+  "level": "L1"
+ },
+ {
+  "latin": "lux",
+  "info": "lucis",
+  "english": "light",
+  "type": "noun 3f",
+  "level": "L2"
+ },
+ {
+  "latin": "magister",
+  "info": "magistri",
+  "english": "teacher, master",
+  "type": "noun 2m",
+  "level": "L1"
+ },
+ {
+  "latin": "magnopere",
+  "info": "",
+  "english": "greatly",
+  "type": "adverb",
+  "level": "L1"
+ },
+ {
+  "latin": "magnus",
+  "info": "magna, magnum",
+  "english": "big, great",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "malus",
+  "info": "mala, malum",
+  "english": "bad, wicked",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "maneo",
+  "info": "manere, mansi",
+  "english": "I stay, remain",
+  "type": "verb 2",
+  "level": "L1"
+ },
+ {
+  "latin": "mare",
+  "info": "maris",
+  "english": "sea",
+  "type": "noun 3n",
+  "level": "L2"
+ },
+ {
+  "latin": "maritus",
+  "info": "mariti",
+  "english": "husband",
+  "type": "noun 2m",
+  "level": "L1"
+ },
+ {
+  "latin": "mater",
+  "info": "matris",
+  "english": "mother",
+  "type": "noun 3f",
+  "level": "L2"
+ },
+ {
+  "latin": "medius",
+  "info": "media, medium",
+  "english": "middle",
+  "type": "adjective 2-1-2",
+  "level": "L2"
+ },
+ {
+  "latin": "meus",
+  "info": "mea, meum",
+  "english": "my",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "miles",
+  "info": "militis",
+  "english": "soldier",
+  "type": "noun 3m",
+  "level": "L2"
+ },
+ {
+  "latin": "mille",
+  "info": "",
+  "english": "a thousand",
+  "type": "cardinal",
+  "level": "L3"
+ },
+ {
+  "latin": "miser",
+  "info": "misera, miserum",
+  "english": "wretched",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "mitto",
+  "info": "mittere, misi, missus",
+  "english": "I send",
+  "type": "verb 3",
+  "level": "L1"
+ },
+ {
+  "latin": "moneo",
+  "info": "monere, monui, monitus",
+  "english": "I warn",
+  "type": "verb 2",
+  "level": "L1"
+ },
+ {
+  "latin": "mons",
+  "info": "montis",
+  "english": "mountain",
+  "type": "noun 3m",
+  "level": "L2"
+ },
+ {
+  "latin": "mora",
+  "info": "morae",
+  "english": "delay",
+  "type": "noun 1f",
+  "level": "L2"
+ },
+ {
+  "latin": "mors",
+  "info": "mortis",
+  "english": "death",
+  "type": "noun 3f",
+  "level": "L2"
+ },
+ {
+  "latin": "mortuus",
+  "info": "mortua, mortuum",
+  "english": "dead",
+  "type": "adjective 2-1-2",
+  "level": "L2"
+ },
+ {
+  "latin": "moveo",
+  "info": "movere, movi, motus",
+  "english": "I move",
+  "type": "verb 2",
+  "level": "L1"
+ },
+ {
+  "latin": "mox",
+  "info": "",
+  "english": "soon",
+  "type": "adverb",
+  "level": "L1"
+ },
+ {
+  "latin": "mulier",
+  "info": "mulieris",
+  "english": "woman",
+  "type": "noun 3f",
+  "level": "L2"
+ },
+ {
+  "latin": "multus",
+  "info": "multa, multum",
+  "english": "much, many",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "murus",
+  "info": "muri",
+  "english": "wall",
+  "type": "noun 2m",
+  "level": "L1"
+ },
+ {
+  "latin": "nam",
+  "info": "",
+  "english": "for",
+  "type": "conjunction",
+  "level": "L2"
+ },
+ {
+  "latin": "narro",
+  "info": "narrare, narravi, narratus",
+  "english": "I tell",
+  "type": "verb 1",
+  "level": "L2"
+ },
+ {
+  "latin": "nauta",
+  "info": "nautae",
+  "english": "sailor",
+  "type": "noun 1m",
+  "level": "L1"
+ },
+ {
+  "latin": "navigo",
+  "info": "navigare, navigavi",
+  "english": "I sail",
+  "type": "verb 1",
+  "level": "L1"
+ },
+ {
+  "latin": "navis",
+  "info": "navis",
+  "english": "ship",
+  "type": "noun 3f",
+  "level": "L2"
+ },
+ {
+  "latin": "ne",
+  "info": "",
+  "english": "in order not to; not to",
+  "type": "conjunction",
+  "level": "L3"
+ },
+ {
+  "latin": "ne?",
+  "info": "",
+  "english": "(open question)",
+  "type": "question word",
+  "level": "L1"
+ },
+ {
+  "latin": "nec/neque",
+  "info": "",
+  "english": "nor, and not",
+  "type": "conjunction",
+  "level": "L3"
+ },
+ {
+  "latin": "neco",
+  "info": "necare, necavi, necatus",
+  "english": "I kill",
+  "type": "verb 1",
+  "level": "L1"
+ },
+ {
+  "latin": "nemo",
+  "info": "neminis",
+  "english": "no one",
+  "type": "noun irregular",
+  "level": "L2"
+ },
+ {
+  "latin": "nihil",
+  "info": "",
+  "english": "nothing",
+  "type": "noun irregular",
+  "level": "L2"
+ },
+ {
+  "latin": "nobilis",
+  "info": "nobile",
+  "english": "noble",
+  "type": "adjective 3rd",
+  "level": "L2"
+ },
+ {
+  "latin": "noli/nolite",
+  "info": "(+ infinitive)",
+  "english": "do not",
+  "type": "verb irregular",
+  "level": "L2"
+ },
+ {
+  "latin": "nolo",
+  "info": "nolle, nolui",
+  "english": "I do not want",
+  "type": "verb irregular",
+  "level": "L3"
+ },
+ {
+  "latin": "nomen",
+  "info": "nominis",
+  "english": "name",
+  "type": "noun 3n",
+  "level": "L2"
+ },
+ {
+  "latin": "non",
+  "info": "",
+  "english": "not",
+  "type": "adverb",
+  "level": "L1"
+ },
+ {
+  "latin": "nonaginta",
+  "info": "",
+  "english": "ninety",
+  "type": "cardinal",
+  "level": "L3"
+ },
+ {
+  "latin": "nonne?",
+  "info": "",
+  "english": "surely?",
+  "type": "question word",
+  "level": "L2"
+ },
+ {
+  "latin": "nonus",
+  "info": "nona, nonum",
+  "english": "ninth",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "nos",
+  "info": "nostrum",
+  "english": "we",
+  "type": "pronoun",
+  "level": "L1"
+ },
+ {
+  "latin": "noster",
+  "info": "nostra, nostrum",
+  "english": "our",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "notus",
+  "info": "nota, notum",
+  "english": "well known",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "novem",
+  "info": "",
+  "english": "nine",
+  "type": "cardinal",
+  "level": "L1"
+ },
+ {
+  "latin": "novus",
+  "info": "nova, novum",
+  "english": "new",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "nox",
+  "info": "noctis",
+  "english": "night",
+  "type": "noun 3f",
+  "level": "L3"
+ },
+ {
+  "latin": "num?",
+  "info": "",
+  "english": "surely not?",
+  "type": "question word",
+  "level": "L2"
+ },
+ {
+  "latin": "numquam",
+  "info": "",
+  "english": "never",
+  "type": "adverb",
+  "level": "L1"
+ },
+ {
+  "latin": "nunc",
+  "info": "",
+  "english": "now",
+  "type": "adverb",
+  "level": "L2"
+ },
+ {
+  "latin": "nuntio",
+  "info": "nuntiare, nuntiavi, nuntiatus",
+  "english": "I announce",
+  "type": "verb 1",
+  "level": "L2"
+ },
+ {
+  "latin": "nuntius",
+  "info": "nuntii",
+  "english": "messenger",
+  "type": "noun 2m",
+  "level": "L1"
+ },
+ {
+  "latin": "occido",
+  "info": "occidere, occidi, occisus",
+  "english": "I kill",
+  "type": "verb 3",
+  "level": "L2"
+ },
+ {
+  "latin": "occupo",
+  "info": "occupare, occupavi, occupatus",
+  "english": "I seize",
+  "type": "verb 1",
+  "level": "L2"
+ },
+ {
+  "latin": "octavus",
+  "info": "octava, octavum",
+  "english": "eighth",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "octo",
+  "info": "",
+  "english": "eight",
+  "type": "cardinal",
+  "level": "L1"
+ },
+ {
+  "latin": "octoginta",
+  "info": "",
+  "english": "eighty",
+  "type": "cardinal",
+  "level": "L3"
+ },
+ {
+  "latin": "olim",
+  "info": "",
+  "english": "once",
+  "type": "adverb",
+  "level": "L1"
+ },
+ {
+  "latin": "omnis",
+  "info": "omne",
+  "english": "all",
+  "type": "adjective 3rd",
+  "level": "L2"
+ },
+ {
+  "latin": "oppidum",
+  "info": "oppidi",
+  "english": "town",
+  "type": "noun 2n",
+  "level": "L1"
+ },
+ {
+  "latin": "oppugno",
+  "info": "oppugnare, oppugnavi, oppugnatus",
+  "english": "I attack",
+  "type": "verb 1",
+  "level": "L1"
+ },
+ {
+  "latin": "opus",
+  "info": "operis",
+  "english": "task, work",
+  "type": "noun 3n",
+  "level": "L3"
+ },
+ {
+  "latin": "ostendo",
+  "info": "ostendere, ostendi, ostentus",
+  "english": "I show",
+  "type": "verb 3",
+  "level": "L1"
+ },
+ {
+  "latin": "paene",
+  "info": "",
+  "english": "almost",
+  "type": "adverb",
+  "level": "L3"
+ },
+ {
+  "latin": "parens",
+  "info": "parentis",
+  "english": "parent",
+  "type": "noun 3m/f",
+  "level": "L2"
+ },
+ {
+  "latin": "paro",
+  "info": "parare, paravi, paratus",
+  "english": "I prepare",
+  "type": "verb 1",
+  "level": "L1"
+ },
+ {
+  "latin": "pars",
+  "info": "partis",
+  "english": "part",
+  "type": "noun 3f",
+  "level": "L2"
+ },
+ {
+  "latin": "parvus",
+  "info": "parva, parvum",
+  "english": "small",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "pater",
+  "info": "patris",
+  "english": "father",
+  "type": "noun 3m",
+  "level": "L2"
+ },
+ {
+  "latin": "patria",
+  "info": "patriae",
+  "english": "country, homeland",
+  "type": "noun 1f",
+  "level": "L1"
+ },
+ {
+  "latin": "pauci",
+  "info": "paucae, pauca",
+  "english": "a few",
+  "type": "adjective 2-1-2",
+  "level": "L2"
+ },
+ {
+  "latin": "pecunia",
+  "info": "pecuniae",
+  "english": "money",
+  "type": "noun 1f",
+  "level": "L1"
+ },
+ {
+  "latin": "pello",
+  "info": "pellere, pepuli, pulsus",
+  "english": "I drive",
+  "type": "verb 3",
+  "level": "L3"
+ },
+ {
+  "latin": "per",
+  "info": "accusative",
+  "english": "through, along",
+  "type": "preposition",
+  "level": "L1"
+ },
+ {
+  "latin": "pereo",
+  "info": "perire, peri(v)i",
+  "english": "I perish",
+  "type": "verb irregular",
+  "level": "L2"
+ },
+ {
+  "latin": "periculum",
+  "info": "periculi",
+  "english": "danger",
+  "type": "noun 2n",
+  "level": "L1"
+ },
+ {
+  "latin": "persuadeo",
+  "info": "persuadere, persuasi (+ dative)",
+  "english": "I persuade",
+  "type": "verb 2",
+  "level": "L3"
+ },
+ {
+  "latin": "perterritus",
+  "info": "perterrita, perterritum",
+  "english": "frightened",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "peto",
+  "info": "-ere, -ivi, -itus",
+  "english": "I seek, I attack",
+  "type": "verb 3",
+  "level": "L3"
+ },
+ {
+  "latin": "poeta",
+  "info": "poetae",
+  "english": "poet",
+  "type": "noun 1m",
+  "level": "L1"
+ },
+ {
+  "latin": "pono",
+  "info": "ponere, posui, positus",
+  "english": "I put",
+  "type": "verb 3",
+  "level": "L1"
+ },
+ {
+  "latin": "porto",
+  "info": "portare, portavi, portatus",
+  "english": "I carry",
+  "type": "verb 1",
+  "level": "L1"
+ },
+ {
+  "latin": "possum",
+  "info": "posse, potui",
+  "english": "I am able",
+  "type": "verb irregular",
+  "level": "L2"
+ },
+ {
+  "latin": "post",
+  "info": "accusative",
+  "english": "after",
+  "type": "preposition",
+  "level": "L2"
+ },
+ {
+  "latin": "postea",
+  "info": "",
+  "english": "afterwards",
+  "type": "adverb",
+  "level": "L2"
+ },
+ {
+  "latin": "postquam",
+  "info": "",
+  "english": "after",
+  "type": "conjunction",
+  "level": "L2"
+ },
+ {
+  "latin": "praemium",
+  "info": "praemii",
+  "english": "reward",
+  "type": "noun 2n",
+  "level": "L3"
+ },
+ {
+  "latin": "primus",
+  "info": "prima, primum",
+  "english": "first",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "princeps",
+  "info": "principis",
+  "english": "chief",
+  "type": "noun 3m",
+  "level": "L3"
+ },
+ {
+  "latin": "pro",
+  "info": "ablative",
+  "english": "for, on behalf of, in front of",
+  "type": "preposition",
+  "level": "L2"
+ },
+ {
+  "latin": "proelium",
+  "info": "proelii",
+  "english": "battle",
+  "type": "noun 2n",
+  "level": "L1"
+ },
+ {
+  "latin": "prope",
+  "info": "accusative",
+  "english": "near",
+  "type": "preposition",
+  "level": "L1"
+ },
+ {
+  "latin": "propter",
+  "info": "accusative",
+  "english": "because of",
+  "type": "preposition",
+  "level": "L2"
+ },
+ {
+  "latin": "puella",
+  "info": "puellae",
+  "english": "girl",
+  "type": "noun 1f",
+  "level": "L1"
+ },
+ {
+  "latin": "puer",
+  "info": "pueri",
+  "english": "boy",
+  "type": "noun 2m",
+  "level": "L1"
+ },
+ {
+  "latin": "pugno",
+  "info": "pugnare, pugnavi",
+  "english": "I fight",
+  "type": "verb 1",
+  "level": "L1"
+ },
+ {
+  "latin": "pulcher",
+  "info": "pulchra, pulchrum",
+  "english": "beautiful, handsome",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "punio",
+  "info": "punire, punivi, punitus",
+  "english": "I punish",
+  "type": "verb 4",
+  "level": "L2"
+ },
+ {
+  "latin": "quadraginta",
+  "info": "",
+  "english": "forty",
+  "type": "cardinal",
+  "level": "L3"
+ },
+ {
+  "latin": "quam",
+  "info": "",
+  "english": "than",
+  "type": "conjunction",
+  "level": "L2"
+ },
+ {
+  "latin": "quamquam",
+  "info": "",
+  "english": "although",
+  "type": "conjunction",
+  "level": "L2"
+ },
+ {
+  "latin": "quartus",
+  "info": "quarta, quartum",
+  "english": "fourth",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "quattuor",
+  "info": "",
+  "english": "four",
+  "type": "cardinal",
+  "level": "L1"
+ },
+ {
+  "latin": "quattuordecim",
+  "info": "",
+  "english": "fourteen",
+  "type": "cardinal",
+  "level": "L2"
+ },
+ {
+  "latin": "que (suffix)",
+  "info": "",
+  "english": "and",
+  "type": "conjunction",
+  "level": "L2"
+ },
+ {
+  "latin": "qui",
+  "info": "quae, quod",
+  "english": "who, which",
+  "type": "pronoun",
+  "level": "L3"
+ },
+ {
+  "latin": "quid?",
+  "info": "",
+  "english": "what?",
+  "type": "question word",
+  "level": "L1"
+ },
+ {
+  "latin": "quindecim",
+  "info": "",
+  "english": "fifteen",
+  "type": "cardinal",
+  "level": "L2"
+ },
+ {
+  "latin": "quinquaginta",
+  "info": "",
+  "english": "fifty",
+  "type": "cardinal",
+  "level": "L3"
+ },
+ {
+  "latin": "quinque",
+  "info": "",
+  "english": "five",
+  "type": "cardinal",
+  "level": "L1"
+ },
+ {
+  "latin": "quintus",
+  "info": "quinta, quintum",
+  "english": "fifth",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "quis?",
+  "info": "",
+  "english": "who?",
+  "type": "question word",
+  "level": "L1"
+ },
+ {
+  "latin": "quod",
+  "info": "",
+  "english": "because",
+  "type": "conjunction",
+  "level": "L1"
+ },
+ {
+  "latin": "quoque",
+  "info": "",
+  "english": "also",
+  "type": "conjunction",
+  "level": "L2"
+ },
+ {
+  "latin": "redeo",
+  "info": "redire, redi(v)i",
+  "english": "I go back",
+  "type": "verb irregular",
+  "level": "L2"
+ },
+ {
+  "latin": "reduco",
+  "info": "reducere, reduxi, reductus",
+  "english": "I lead back",
+  "type": "verb 3",
+  "level": "L2"
+ },
+ {
+  "latin": "regina",
+  "info": "reginae",
+  "english": "queen",
+  "type": "noun 1f",
+  "level": "L1"
+ },
+ {
+  "latin": "rego",
+  "info": "regere, rexi, rectus",
+  "english": "I rule",
+  "type": "verb 3",
+  "level": "L1"
+ },
+ {
+  "latin": "relinquo",
+  "info": "relinquere, reliqui, relictus",
+  "english": "I leave",
+  "type": "verb 3",
+  "level": "L3"
+ },
+ {
+  "latin": "res",
+  "info": "rei",
+  "english": "thing, matter, affair",
+  "type": "noun 5f",
+  "level": "L3"
+ },
+ {
+  "latin": "respondeo",
+  "info": "respondere, respondi, responsus",
+  "english": "I answer",
+  "type": "verb 2",
+  "level": "L1"
+ },
+ {
+  "latin": "rex",
+  "info": "regis",
+  "english": "king",
+  "type": "noun 3m",
+  "level": "L2"
+ },
+ {
+  "latin": "rideo",
+  "info": "ridere, risi",
+  "english": "I laugh",
+  "type": "verb 2",
+  "level": "L1"
+ },
+ {
+  "latin": "rogo",
+  "info": "rogare, rogavi, rogatus",
+  "english": "I ask, ask for",
+  "type": "verb 1",
+  "level": "L1"
+ },
+ {
+  "latin": "Roma",
+  "info": "Romae",
+  "english": "Rome",
+  "type": "noun 1f",
+  "level": "L1"
+ },
+ {
+  "latin": "Romanus",
+  "info": "Romana, Romanum",
+  "english": "Roman",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "ruo",
+  "info": "ruere, rui",
+  "english": "I rush",
+  "type": "verb 3",
+  "level": "L2"
+ },
+ {
+  "latin": "sacer",
+  "info": "sacra, sacrum",
+  "english": "sacred",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "saepe",
+  "info": "",
+  "english": "often",
+  "type": "adverb",
+  "level": "L1"
+ },
+ {
+  "latin": "saevus",
+  "info": "saeva, saevum",
+  "english": "savage",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "sagitta",
+  "info": "sagittae",
+  "english": "arrow",
+  "type": "noun 1f",
+  "level": "L1"
+ },
+ {
+  "latin": "saluto",
+  "info": "salutare, salutavi, salutatus",
+  "english": "I greet",
+  "type": "verb 1",
+  "level": "L2"
+ },
+ {
+  "latin": "sapiens",
+  "info": "sapientis",
+  "english": "wise",
+  "type": "adjective 3rd",
+  "level": "L2"
+ },
+ {
+  "latin": "scribo",
+  "info": "scribere, scripsi, scriptus",
+  "english": "I write",
+  "type": "verb 3",
+  "level": "L1"
+ },
+ {
+  "latin": "scutum",
+  "info": "scuti",
+  "english": "shield",
+  "type": "noun 2n",
+  "level": "L1"
+ },
+ {
+  "latin": "se",
+  "info": "",
+  "english": "himself, herself, themselves",
+  "type": "pronoun",
+  "level": "L2"
+ },
+ {
+  "latin": "secundus",
+  "info": "secunda, secundum",
+  "english": "second",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "sed",
+  "info": "",
+  "english": "but",
+  "type": "conjunction",
+  "level": "L1"
+ },
+ {
+  "latin": "sedeo",
+  "info": "sedere, sedi, sessus",
+  "english": "I sit",
+  "type": "verb 2",
+  "level": "L1"
+ },
+ {
+  "latin": "sedecim",
+  "info": "",
+  "english": "sixteen",
+  "type": "cardinal",
+  "level": "L2"
+ },
+ {
+  "latin": "semper",
+  "info": "",
+  "english": "always",
+  "type": "adverb",
+  "level": "L1"
+ },
+ {
+  "latin": "senex",
+  "info": "senis",
+  "english": "old man",
+  "type": "noun 3m",
+  "level": "L2"
+ },
+ {
+  "latin": "septem",
+  "info": "",
+  "english": "seven",
+  "type": "cardinal",
+  "level": "L1"
+ },
+ {
+  "latin": "septendecim",
+  "info": "",
+  "english": "seventeen",
+  "type": "cardinal",
+  "level": "L2"
+ },
+ {
+  "latin": "septimus",
+  "info": "septima, septimum",
+  "english": "seventh",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "septuaginta",
+  "info": "",
+  "english": "seventy",
+  "type": "cardinal",
+  "level": "L3"
+ },
+ {
+  "latin": "servo",
+  "info": "servare, servavi, servatus",
+  "english": "I save",
+  "type": "verb 1",
+  "level": "L2"
+ },
+ {
+  "latin": "servus",
+  "info": "servi",
+  "english": "slave",
+  "type": "noun 2m",
+  "level": "L1"
+ },
+ {
+  "latin": "sex",
+  "info": "",
+  "english": "six",
+  "type": "cardinal",
+  "level": "L1"
+ },
+ {
+  "latin": "sexaginta",
+  "info": "",
+  "english": "sixty",
+  "type": "cardinal",
+  "level": "L3"
+ },
+ {
+  "latin": "sextus",
+  "info": "sexta, sextum",
+  "english": "sixth",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "sic",
+  "info": "",
+  "english": "thus",
+  "type": "adverb",
+  "level": "L1"
+ },
+ {
+  "latin": "silva",
+  "info": "silvae",
+  "english": "wood, forest",
+  "type": "noun 1f",
+  "level": "L1"
+ },
+ {
+  "latin": "sine",
+  "info": "ablative",
+  "english": "without",
+  "type": "preposition",
+  "level": "L2"
+ },
+ {
+  "latin": "socius",
+  "info": "socii",
+  "english": "ally",
+  "type": "noun 2m",
+  "level": "L1"
+ },
+ {
+  "latin": "solus",
+  "info": "sola, solum",
+  "english": "alone",
+  "type": "adjective 2-1-2",
+  "level": "L2"
+ },
+ {
+  "latin": "somnus",
+  "info": "somni",
+  "english": "sleep",
+  "type": "noun 2m",
+  "level": "L3"
+ },
+ {
+  "latin": "soror",
+  "info": "sororis",
+  "english": "sister",
+  "type": "noun 3f",
+  "level": "L2"
+ },
+ {
+  "latin": "specto",
+  "info": "spectare, spectavi, spectatus",
+  "english": "I watch, look at",
+  "type": "verb 1",
+  "level": "L1"
+ },
+ {
+  "latin": "spes",
+  "info": "spei",
+  "english": "hope",
+  "type": "noun 5f",
+  "level": "L3"
+ },
+ {
+  "latin": "statim",
+  "info": "",
+  "english": "immediately",
+  "type": "adverb",
+  "level": "L1"
+ },
+ {
+  "latin": "sto",
+  "info": "stare, steti",
+  "english": "I stand",
+  "type": "verb 1",
+  "level": "L1"
+ },
+ {
+  "latin": "sub",
+  "info": "accusative or ablative",
+  "english": "under",
+  "type": "preposition",
+  "level": "L2"
+ },
+ {
+  "latin": "subito",
+  "info": "",
+  "english": "suddenly",
+  "type": "adverb",
+  "level": "L1"
+ },
+ {
+  "latin": "sum",
+  "info": "esse, fui",
+  "english": "I am",
+  "type": "verb irregular",
+  "level": "L1"
+ },
+ {
+  "latin": "super",
+  "info": "accusative",
+  "english": "above",
+  "type": "preposition",
+  "level": "L2"
+ },
+ {
+  "latin": "superbus",
+  "info": "superba, superbum",
+  "english": "proud",
+  "type": "adjective 2-1-2",
+  "level": "L3"
+ },
+ {
+  "latin": "supero",
+  "info": "superare, superavi, superatus",
+  "english": "I overcome",
+  "type": "verb 1",
+  "level": "L1"
+ },
+ {
+  "latin": "suus",
+  "info": "sua, suum",
+  "english": "his own, her own, their own",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "tamen",
+  "info": "",
+  "english": "however",
+  "type": "adverb",
+  "level": "L1"
+ },
+ {
+  "latin": "tandem",
+  "info": "",
+  "english": "at last",
+  "type": "adverb",
+  "level": "L1"
+ },
+ {
+  "latin": "telum",
+  "info": "teli",
+  "english": "weapon",
+  "type": "noun 2n",
+  "level": "L3"
+ },
+ {
+  "latin": "tempestas",
+  "info": "tempestatis",
+  "english": "storm",
+  "type": "noun 3f",
+  "level": "L3"
+ },
+ {
+  "latin": "templum",
+  "info": "templi",
+  "english": "temple",
+  "type": "noun 2n",
+  "level": "L1"
+ },
+ {
+  "latin": "teneo",
+  "info": "tenere, tenui, tentus",
+  "english": "I hold",
+  "type": "verb 2",
+  "level": "L1"
+ },
+ {
+  "latin": "terra",
+  "info": "terrae",
+  "english": "land",
+  "type": "noun 1f",
+  "level": "L1"
+ },
+ {
+  "latin": "terreo",
+  "info": "terrere, terrui, territus",
+  "english": "I frighten",
+  "type": "verb 2",
+  "level": "L1"
+ },
+ {
+  "latin": "tertius",
+  "info": "tertia, tertium",
+  "english": "third",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "timeo",
+  "info": "timere, timui",
+  "english": "I fear, am afraid",
+  "type": "verb 2",
+  "level": "L1"
+ },
+ {
+  "latin": "totus",
+  "info": "tota, totum",
+  "english": "whole",
+  "type": "adjective 2-1-2",
+  "level": "L3"
+ },
+ {
+  "latin": "trado",
+  "info": "tradere, tradidi, traditus",
+  "english": "I hand over",
+  "type": "verb 3",
+  "level": "L2"
+ },
+ {
+  "latin": "trans",
+  "info": "accusative",
+  "english": "across",
+  "type": "preposition",
+  "level": "L1"
+ },
+ {
+  "latin": "transeo",
+  "info": "transire, transi(v)i",
+  "english": "I go across",
+  "type": "verb irregular",
+  "level": "L2"
+ },
+ {
+  "latin": "tredecim",
+  "info": "",
+  "english": "thirteen",
+  "type": "cardinal",
+  "level": "L2"
+ },
+ {
+  "latin": "tres",
+  "info": "tria",
+  "english": "three",
+  "type": "cardinal",
+  "level": "L1"
+ },
+ {
+  "latin": "triginta",
+  "info": "",
+  "english": "thirty",
+  "type": "cardinal",
+  "level": "L3"
+ },
+ {
+  "latin": "tristis",
+  "info": "triste",
+  "english": "sad",
+  "type": "adjective 3rd",
+  "level": "L2"
+ },
+ {
+  "latin": "Troia",
+  "info": "Troiae",
+  "english": "Troy",
+  "type": "noun 1f",
+  "level": "L1"
+ },
+ {
+  "latin": "Troianus",
+  "info": "Troiana, Troianum",
+  "english": "Trojan",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "tu",
+  "info": "tui",
+  "english": "you (sing.)",
+  "type": "pronoun",
+  "level": "L1"
+ },
+ {
+  "latin": "tum",
+  "info": "",
+  "english": "then",
+  "type": "adverb",
+  "level": "L2"
+ },
+ {
+  "latin": "turba",
+  "info": "turbae",
+  "english": "crowd",
+  "type": "noun 1f",
+  "level": "L1"
+ },
+ {
+  "latin": "tutus",
+  "info": "tuta, tutum",
+  "english": "safe",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "tuus",
+  "info": "tua, tuum",
+  "english": "your (sing.)",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "ubi",
+  "info": "",
+  "english": "when",
+  "type": "adverb",
+  "level": "L1"
+ },
+ {
+  "latin": "ubi?",
+  "info": "",
+  "english": "where?",
+  "type": "question word",
+  "level": "L1"
+ },
+ {
+  "latin": "unda",
+  "info": "undae",
+  "english": "wave",
+  "type": "noun 1f",
+  "level": "L1"
+ },
+ {
+  "latin": "undecim",
+  "info": "",
+  "english": "eleven",
+  "type": "cardinal",
+  "level": "L2"
+ },
+ {
+  "latin": "undeviginti",
+  "info": "",
+  "english": "nineteen",
+  "type": "cardinal",
+  "level": "L2"
+ },
+ {
+  "latin": "unus",
+  "info": "una, unum",
+  "english": "one",
+  "type": "cardinal",
+  "level": "L1"
+ },
+ {
+  "latin": "urbs",
+  "info": "urbis",
+  "english": "city",
+  "type": "noun 3f",
+  "level": "L2"
+ },
+ {
+  "latin": "ut",
+  "info": "(+ subjunctive verb)",
+  "english": "so that, in order to; to",
+  "type": "conjunction",
+  "level": "L3"
+ },
+ {
+  "latin": "uxor",
+  "info": "uxoris",
+  "english": "wife",
+  "type": "noun 3f",
+  "level": "L2"
+ },
+ {
+  "latin": "validus",
+  "info": "valida, validum",
+  "english": "strong",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "venio",
+  "info": "venire, veni",
+  "english": "I come",
+  "type": "verb 4",
+  "level": "L1"
+ },
+ {
+  "latin": "ventus",
+  "info": "venti",
+  "english": "wind",
+  "type": "noun 2m",
+  "level": "L1"
+ },
+ {
+  "latin": "verbum",
+  "info": "verbi",
+  "english": "word",
+  "type": "noun 2n",
+  "level": "L1"
+ },
+ {
+  "latin": "vester",
+  "info": "vestra, vestrum",
+  "english": "your (pl.)",
+  "type": "adjective 2-1-2",
+  "level": "L1"
+ },
+ {
+  "latin": "via",
+  "info": "viae",
+  "english": "road, street",
+  "type": "noun 1f",
+  "level": "L1"
+ },
+ {
+  "latin": "video",
+  "info": "videre, vidi, visus",
+  "english": "I see",
+  "type": "verb 2",
+  "level": "L1"
+ },
+ {
+  "latin": "viginti",
+  "info": "",
+  "english": "twenty",
+  "type": "cardinal",
+  "level": "L2"
+ },
+ {
+  "latin": "villa",
+  "info": "villae",
+  "english": "house, villa",
+  "type": "noun 1f",
+  "level": "L1"
+ },
+ {
+  "latin": "vinco",
+  "info": "vincere, vici, victus",
+  "english": "I conquer",
+  "type": "verb 3",
+  "level": "L2"
+ },
+ {
+  "latin": "vinum",
+  "info": "vini",
+  "english": "wine",
+  "type": "noun 2n",
+  "level": "L1"
+ },
+ {
+  "latin": "vir",
+  "info": "viri",
+  "english": "man",
+  "type": "noun 2m",
+  "level": "L1"
+ },
+ {
+  "latin": "virtus",
+  "info": "virtutis",
+  "english": "courage",
+  "type": "noun 3f",
+  "level": "L2"
+ },
+ {
+  "latin": "vivus",
+  "info": "viva, vivum",
+  "english": "alive",
+  "type": "adjective 2-1-2",
+  "level": "L2"
+ },
+ {
+  "latin": "voco",
+  "info": "vocare, vocavi, vocatus",
+  "english": "I call",
+  "type": "verb 1",
+  "level": "L1"
+ },
+ {
+  "latin": "volo",
+  "info": "velle, volui",
+  "english": "I want",
+  "type": "verb irregular",
+  "level": "L3"
+ },
+ {
+  "latin": "vos",
+  "info": "vestrum",
+  "english": "you (pl.)",
+  "type": "pronoun",
+  "level": "L1"
+ },
+ {
+  "latin": "vox",
+  "info": "vocis",
+  "english": "voice",
+  "type": "noun 3f",
+  "level": "L2"
+ },
+ {
+  "latin": "vulnero",
+  "info": "vulnerare, vulneravi, vulneratus",
+  "english": "I wound",
+  "type": "verb 1",
+  "level": "L2"
+ },
+ {
+  "latin": "vulnus",
+  "info": "vulneris",
+  "english": "wound",
+  "type": "noun 3n",
+  "level": "L2"
+ }
+]

@@ -1,0 +1,192 @@
+/* Translation Tutor — house style shared with the CE Word List reference */
+:root {
+  --parchment: #f5ede0;
+  --parchment-dark: #e8dcc8;
+  --paper: #fdfaf4;
+  --ink: #1a120a;
+  --ink-light: #3d2b1a;
+  --ink-faint: #7a5c3e;
+  --red: #8b1a1a;
+  --green: #1a6b3c;
+  --gold: #b8860b;
+  --gold-light: #d4a017;
+  --border: #c4a882;
+  --tag-bg: #ede0cc;
+  --shadow: rgba(26, 18, 10, 0.15);
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  background: var(--parchment);
+  color: var(--ink);
+  font-family: 'Crimson Pro', Georgia, 'Times New Roman', serif;
+  font-size: 19px;
+  line-height: 1.5;
+  min-height: 100vh;
+  background-image:
+    radial-gradient(ellipse at 20% 10%, rgba(184, 134, 11, 0.06) 0%, transparent 60%),
+    radial-gradient(ellipse at 80% 90%, rgba(139, 26, 26, 0.05) 0%, transparent 60%);
+  -webkit-text-size-adjust: 100%;
+}
+
+.wrap { max-width: 920px; margin: 0 auto; padding: 28px 16px 72px; }
+
+/* ---------- masthead ---------- */
+header { text-align: center; border-bottom: 2px solid var(--border); padding-bottom: 16px; margin-bottom: 26px; }
+header h1 {
+  font-family: 'IM Fell English', Georgia, serif;
+  font-size: clamp(30px, 6vw, 44px);
+  font-weight: 400; letter-spacing: 0.01em; line-height: 1.1;
+}
+header .sub { color: var(--ink-faint); font-size: 15px; margin-top: 6px; font-variant: small-caps; letter-spacing: 0.07em; }
+
+/* ---------- panels ---------- */
+.panel {
+  background: var(--paper);
+  border: 1px solid var(--border);
+  border-radius: 3px;
+  box-shadow: 0 1px 3px var(--shadow);
+  padding: 20px;
+  margin-bottom: 20px;
+}
+.panel h2 {
+  font-family: 'IM Fell English', Georgia, serif;
+  font-size: 21px; font-weight: 400; margin-bottom: 14px;
+  padding-bottom: 7px; border-bottom: 1px solid var(--parchment-dark);
+}
+
+/* ---------- controls ---------- */
+.row { display: flex; flex-wrap: wrap; gap: 18px; margin-bottom: 16px; }
+.field { flex: 1 1 190px; min-width: 0; }
+.field > label {
+  display: block; font-size: 12px; letter-spacing: 0.1em;
+  text-transform: uppercase; color: var(--ink-faint); margin-bottom: 6px;
+}
+.seg { display: flex; border: 1px solid var(--border); border-radius: 3px; overflow: hidden; }
+.seg button {
+  flex: 1 1 0; min-width: 0; padding: 9px 8px; font: inherit; font-size: 15px;
+  background: var(--parchment); color: var(--ink-light);
+  border: 0; border-right: 1px solid var(--border); cursor: pointer;
+}
+.seg button:last-child { border-right: 0; }
+.seg button[aria-pressed="true"] { background: var(--ink); color: var(--parchment); }
+.seg button:disabled { color: #b09c84; cursor: not-allowed; background: var(--parchment-dark); }
+
+textarea, input[type="text"] {
+  width: 100%; font: inherit; font-size: 20px; color: var(--ink);
+  background: var(--paper); border: 1px solid var(--border); border-radius: 3px;
+  padding: 11px 13px;
+}
+textarea { min-height: 76px; resize: vertical; }
+textarea:focus, input[type="text"]:focus { outline: 2px solid var(--gold); outline-offset: -1px; }
+
+.btn {
+  font: inherit; font-size: 17px; padding: 10px 22px; cursor: pointer;
+  background: var(--ink); color: var(--parchment);
+  border: 1px solid var(--ink); border-radius: 3px;
+}
+.btn:hover { background: var(--ink-light); }
+.btn.secondary { background: transparent; color: var(--ink-light); border-color: var(--border); }
+.btn.secondary:hover { background: var(--parchment-dark); }
+.btn:disabled { opacity: 0.45; cursor: not-allowed; }
+.actions { display: flex; flex-wrap: wrap; gap: 10px; align-items: center; }
+.actions .spacer { flex: 1 1 auto; }
+
+.examples { margin-top: 14px; font-size: 16px; color: var(--ink-faint); }
+.examples button {
+  font: inherit; font-size: 16px; background: var(--tag-bg); color: var(--ink-light);
+  border: 1px solid var(--border); border-radius: 3px;
+  padding: 4px 10px; margin: 4px 6px 0 0; cursor: pointer;
+}
+.examples button:hover { background: var(--parchment-dark); }
+
+/* ---------- the sentence under study ---------- */
+.sentence {
+  font-family: 'IM Fell English', Georgia, serif;
+  font-size: clamp(24px, 5vw, 32px);
+  text-align: center; padding: 14px 8px; letter-spacing: 0.01em;
+}
+.sentence .w { padding: 0 2px; }
+.sentence .w.here { border-bottom: 3px solid var(--gold); }
+.sentence .clause-mark { color: var(--ink-faint); }
+
+/* ---------- the question ---------- */
+.qgroup {
+  font-size: 12px; letter-spacing: 0.1em; text-transform: uppercase;
+  color: var(--ink-faint); margin-bottom: 8px;
+}
+.qtext { font-size: 23px; line-height: 1.35; margin-bottom: 4px; }
+.qdetail { color: var(--ink-light); font-size: 17px; margin-top: 7px; }
+.qdetail .lat { font-family: 'IM Fell English', Georgia, serif; font-size: 20px; }
+
+.choices { display: flex; flex-wrap: wrap; gap: 9px; margin-top: 16px; }
+.choices button {
+  font: inherit; font-size: 17px; padding: 9px 16px; cursor: pointer;
+  background: var(--parchment); color: var(--ink);
+  border: 1px solid var(--border); border-radius: 3px;
+}
+.choices button:hover { background: var(--parchment-dark); border-color: var(--ink-faint); }
+
+.answerline { display: flex; gap: 10px; margin-top: 16px; align-items: flex-start; }
+.answerline input { flex: 1 1 auto; }
+.answerline.latin input { font-family: 'IM Fell English', Georgia, serif; font-size: 22px; }
+
+/* ---------- feedback ---------- */
+.fb { margin-top: 14px; padding: 11px 14px; border-left: 3px solid var(--border); font-size: 18px; background: var(--parchment); }
+.fb.ok { border-left-color: var(--green); }
+.fb.no { border-left-color: var(--red); }
+.fb.hint { border-left-color: var(--gold); }
+.fb .lat { font-family: 'IM Fell English', Georgia, serif; }
+
+/* ---------- paradigm table ---------- */
+.tablebox { margin-top: 14px; border: 1px solid var(--border); background: var(--parchment); padding: 12px; }
+.tablebox .title { font-family: 'IM Fell English', Georgia, serif; font-size: 19px; margin-bottom: 9px; }
+table { border-collapse: collapse; width: 100%; font-size: 17px; }
+th, td { text-align: left; padding: 4px 9px; border-bottom: 1px solid var(--parchment-dark); }
+th { font-size: 12px; text-transform: uppercase; letter-spacing: 0.08em; color: var(--ink-faint); font-weight: 400; }
+td.lab { color: var(--ink-faint); font-variant: small-caps; }
+td.form { font-family: 'IM Fell English', Georgia, serif; font-size: 19px; }
+
+/* ---------- tile builder ---------- */
+.built {
+  min-height: 56px; border: 1px dashed var(--border); background: var(--parchment);
+  padding: 9px; margin-top: 14px; display: flex; flex-wrap: wrap; gap: 8px; align-items: flex-start;
+}
+.built:empty::after { content: 'Tap the words in order.'; color: var(--ink-faint); font-size: 16px; }
+.bank { display: flex; flex-wrap: wrap; gap: 8px; margin-top: 12px; }
+.tile {
+  font: inherit; font-size: 17px; padding: 8px 14px; cursor: pointer;
+  background: var(--tag-bg); border: 1px solid var(--border); border-radius: 3px; color: var(--ink);
+}
+.tile:hover { background: var(--parchment-dark); }
+.built .tile { background: var(--paper); }
+
+/* ---------- progress and the record of work ---------- */
+.prog { font-size: 13px; letter-spacing: 0.08em; text-transform: uppercase; color: var(--ink-faint); }
+.bar { height: 3px; background: var(--parchment-dark); margin-top: 8px; }
+.bar span { display: block; height: 100%; background: var(--gold); transition: width 0.25s; }
+
+ol.record { list-style: none; font-size: 17px; }
+ol.record li { padding: 6px 0; border-bottom: 1px solid var(--parchment-dark); display: flex; gap: 10px; }
+ol.record li:last-child { border-bottom: 0; }
+ol.record .q { flex: 1 1 auto; color: var(--ink-light); }
+ol.record .a { font-family: 'IM Fell English', Georgia, serif; }
+ol.record .marks { color: var(--ink-faint); font-size: 14px; white-space: nowrap; }
+
+.summary { display: flex; flex-wrap: wrap; gap: 26px; margin-bottom: 4px; }
+.summary div { font-size: 16px; }
+.summary b { display: block; font-family: 'IM Fell English', Georgia, serif; font-size: 27px; font-weight: 400; }
+
+.note { color: var(--ink-faint); font-size: 16px; }
+.hidden { display: none !important; }
+
+footer { text-align: center; color: var(--ink-faint); font-size: 14px; margin-top: 30px; }
+
+@media (max-width: 560px) {
+  body { font-size: 18px; }
+  .wrap { padding: 18px 14px 56px; }
+  .panel { padding: 15px; }
+  .row { gap: 12px; }
+  .qtext { font-size: 21px; }
+}

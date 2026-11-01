@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Translation Tutor &mdash; Latin</title>
+<meta name="description" content="A Socratic translation tutor for ISEB Common Entrance Latin. Works through a sentence step by step; it does not give answers.">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%23f5ede0'/%3E%3Ctext x='16' y='24' font-size='22' text-anchor='middle' font-family='Georgia,serif' fill='%238b1a1a'%3EL%3C/text%3E%3C/svg%3E">
+<link href="https://fonts.googleapis.com/css2?family=IM+Fell+English:ital@0;1&family=Crimson+Pro:ital,wght@0,300;0,400;0,500;0,600;1,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="css/app.css">
+</head>
+<body>
+<div class="wrap">
+
+  <header>
+    <h1>Translation Tutor</h1>
+    <div class="sub">Latin &middot; ISEB Common Entrance</div>
+  </header>
+
+  <!-- ============ setup ============ -->
+  <section class="panel" id="setup">
+    <h2>Set the sentence</h2>
+
+    <div class="row">
+      <div class="field">
+        <label id="lab-direction">Direction</label>
+        <div class="seg" id="seg-direction" role="group" aria-labelledby="lab-direction">
+          <button type="button" data-value="l2e" aria-pressed="true">Latin into English</button>
+          <button type="button" data-value="e2l" aria-pressed="false">English into Latin</button>
+        </div>
+      </div>
+      <div class="field">
+        <label id="lab-level">Level</label>
+        <div class="seg" id="seg-level" role="group" aria-labelledby="lab-level">
+          <button type="button" data-value="1" aria-pressed="true">Level 1</button>
+          <button type="button" data-value="2" aria-pressed="false" disabled>Level 2</button>
+          <button type="button" data-value="3" aria-pressed="false" disabled>Level 3</button>
+        </div>
+        <div class="note" style="font-size:14px;margin-top:6px;">Levels 2 and 3 are not in yet.</div>
+      </div>
+    </div>
+
+    <div class="row">
+      <div class="field">
+        <label id="lab-depth">Questions</label>
+        <div class="seg" id="seg-depth" role="group" aria-labelledby="lab-depth">
+          <button type="button" data-value="full" aria-pressed="true">Every step</button>
+          <button type="button" data-value="core" aria-pressed="false">Core steps</button>
+        </div>
+      </div>
+      <div class="field" id="modefield">
+        <label id="lab-mode">Final translation</label>
+        <div class="seg" id="seg-mode" role="group" aria-labelledby="lab-mode">
+          <button type="button" data-value="type" aria-pressed="true">Type it</button>
+          <button type="button" data-value="build" aria-pressed="false">Build it</button>
+        </div>
+      </div>
+    </div>
+
+    <label for="sentence" style="display:block;font-size:12px;letter-spacing:.1em;text-transform:uppercase;color:var(--ink-faint);margin-bottom:6px;">Sentence</label>
+    <textarea id="sentence" placeholder="Type a Latin sentence." autocomplete="off" autocapitalize="none" spellcheck="false"></textarea>
+
+    <div class="actions" style="margin-top:14px;">
+      <button class="btn" id="beginbtn" type="button">Begin</button>
+      <span class="note" id="setupnote"></span>
+    </div>
+
+    <div class="examples" id="examples"></div>
+  </section>
+
+  <!-- ============ session ============ -->
+  <section id="session" class="hidden">
+    <div class="panel">
+      <div class="sentence" id="shown"></div>
+    </div>
+
+    <div class="panel">
+      <div class="qgroup" id="qgroup"></div>
+      <div class="qtext" id="qtext"></div>
+      <div class="qdetail" id="qdetail"></div>
+      <div id="inputs"></div>
+      <div id="fb"></div>
+      <div id="tablebox" class="tablebox hidden"></div>
+
+      <div class="actions" style="margin-top:18px;">
+        <button class="btn secondary" id="hintbtn" type="button">Hint</button>
+        <button class="btn secondary hidden" id="tablebtn" type="button">Show the table</button>
+        <span class="spacer"></span>
+        <button class="btn secondary" id="quitbtn" type="button">New sentence</button>
+      </div>
+
+      <div style="margin-top:16px;">
+        <div class="prog" id="prog"></div>
+        <div class="bar"><span id="barfill" style="width:0"></span></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- ============ finished ============ -->
+  <section id="done" class="hidden">
+    <div class="panel">
+      <h2>Finished</h2>
+      <div class="sentence" id="finaltext"></div>
+      <div class="summary" id="summary" style="margin-top:12px;"></div>
+    </div>
+    <div class="panel">
+      <h2>Your working</h2>
+      <ol class="record" id="record"></ol>
+      <div class="actions" style="margin-top:18px;">
+        <button class="btn" id="againbtn" type="button">New sentence</button>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    Vocabulary and grammar from the ISEB Common Entrance &amp; CASE Classics specification.
+  </footer>
+</div>
+
+<script src="data/vocab.js"></script>
+<script src="js/morph.js"></script>
+<script src="js/parse.js"></script>
+<script src="js/english.js"></script>
+<script src="js/socratic.js"></script>
+<script src="js/latin.js"></script>
+<script src="js/ui.js"></script>
+</body>
+</html>
